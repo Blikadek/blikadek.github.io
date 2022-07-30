@@ -1,6 +1,7 @@
 .bodymain {
-  min-height: 2000px;
+  /* min-height: 2000px; */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
 }
 
 .jumbotron {
@@ -10,7 +11,7 @@
 }
 
 .navbar {
-  background-color: #0f2027;
+  background-color: #0f2027c9;
 }
 
 .aboutme {
