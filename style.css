@@ -1,0 +1,70 @@
+.bodymain {
+  min-height: 2000px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jumbotron {
+  /* padding: 2rem 1rem; */
+  background-color: #081115;
+  /* padding-top: 5rem; */
+}
+
+.navbar {
+  background-color: #0f2027;
+}
+
+.aboutme {
+  background-color: #0f2027;
+  text-align: justify;
+}
+
+.myproject {
+  background-color: #203a43;
+  text-align: justify;
+}
+
+.contactme {
+  background-color: #0f2027;
+  text-align: justify;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card {
+  background-color: #0811153f;
+}
+
+.footer {
+  background-color: #081115;
+  padding-bottom: 1rem;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.act-btn {
+  /* background: green; */
+  background: linear-gradient(#081115, #0f2027, #203a43);
+  display: block;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  text-decoration: none;
+  transition: ease all 0.3s;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+}
+.act-btn:hover {
+  /* background: dark; */
+  background: linear-gradient(#1d2f38, #080d11, #1d2f38);
+}
